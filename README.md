@@ -22,7 +22,7 @@ The goals of this project are the following:
 [image4]: ./writeupimages/rotation_before_after.png "Images before and after rotation at -10, -5, +5, and +10 degrees"
 [image5]: ./writeupimages/perspective_transform_before_after.png "Images before and after perspective transformations"
 [image6]: ./writeupimages/grayscale_before_after.png "Images before and after grayscale conversion"
-[image7]: ./writeupimages/grayscale_before_after.png "Images before and after being scaled up 15%"
+[image7]: ./writeupimages/scale_before_after.png "Images before and after being scaled up 15%"
 [image8]: ./writeupimages/visualization_after.png "Visualization: Histogram of the augmented training data set"
 [image9]: ./writeupimages/internet_images.png "30 traffic sign images found on the web, labeled"
 [image10]: ./writeupimages/internet_images_predictions.png "30 traffic sign images found on the web, labeled, predicted"
